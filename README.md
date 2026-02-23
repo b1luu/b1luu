@@ -1,16 +1,30 @@
-## Hi there 👋
+# Brandon Luu
 
-<!--
-**b1luu/b1luu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math–Computer Science @ UC San Diego  
+Focus: Data Science, Statistical Modeling, and Operational Analytics
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building production-grade demand forecasting, inventory optimization, and operational analytics systems using real-world POS data from Mosa Tea.
+
+## Featured Projects
+
+- Inventory forecasting using Monte Carlo simulation
+- Demand uncertainty modeling using bootstrap methods
+- Happy Hour promo effectiveness analysis
+- POS data cleaning and analytics pipelines
+- QR-based operational checklist system
+
+## Technical Skills
+
+Python, pandas, numpy  
+Statistical modeling, bootstrap, Monte Carlo  
+Data pipelines and analytics engineering  
+Git, GitHub  
+
+## Interests
+
+Demand forecasting  
+Supply chain analytics  
+Data science systems  
+Operational optimization
