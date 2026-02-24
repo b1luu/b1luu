@@ -41,17 +41,3 @@ Building production-grade demand forecasting, inventory optimization, and operat
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-## Featured Projects
-
-- Inventory forecasting using Monte Carlo simulation
-- Demand uncertainty modeling using bootstrap methods
-- Happy Hour promo effectiveness analysis
-- POS data cleaning and analytics pipelines
-- QR-based operational checklist system
-
-## Interests
-
-Demand forecasting  
-Supply chain analytics  
-Data science systems  
-Operational optimization
