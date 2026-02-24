@@ -7,14 +7,6 @@ Focus: Data Science, Statistical Modeling, and Operational Analytics
 
 Building production-grade demand forecasting, inventory optimization, and operational analytics systems using real-world POS data from Mosa Tea.
 
-## Featured Projects
-
-- Inventory forecasting using Monte Carlo simulation
-- Demand uncertainty modeling using bootstrap methods
-- Happy Hour promo effectiveness analysis
-- POS data cleaning and analytics pipelines
-- QR-based operational checklist system
-  
 ## Tech  Stack
 ### Languages
 
@@ -48,6 +40,15 @@ Building production-grade demand forecasting, inventory optimization, and operat
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+## Featured Projects
+
+- Inventory forecasting using Monte Carlo simulation
+- Demand uncertainty modeling using bootstrap methods
+- Happy Hour promo effectiveness analysis
+- POS data cleaning and analytics pipelines
+- QR-based operational checklist system
+
 ## Interests
 
 Demand forecasting  
