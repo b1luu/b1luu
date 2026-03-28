@@ -1,6 +1,6 @@
 ## Current Work
 
-Building production-grade demand forecasting, inventory optimization, and operational analytics systems using real-world POS data from Mosa Tea.
+Building backend systems for real-world operations at Mosa Tea
 
 ## Tech  Stack
 ### Languages
