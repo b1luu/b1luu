@@ -2,6 +2,8 @@
 
 Building backend systems for inventory automation and data processing for Mosa Tea.
 
+Contact: brandonluu.dev@gmail.com
+
 ## Tech Stack
 
 ### Core
