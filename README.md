@@ -1,7 +1,8 @@
-Building backend systems for inventory automation and data processing for Mosa Tea.
+building internal tools for Mosa Tea using Square APIs
 
 Contact: brandonluu.dev@gmail.com
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1luu&show_icons=true&theme=default)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1luu&show_icons=true&hide_border=true)
+
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +25,6 @@ Contact: brandonluu.dev@gmail.com
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4CAF50?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
