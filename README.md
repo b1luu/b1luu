@@ -1,7 +1,5 @@
 Building internal tools for Mosa Tea using Square APIs
-
 Contact: brandonluu.dev@gmail.com
-![](https://github-readme-streak-stats.herokuapp.com/?user=b1luu&hide_border=true)
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,3 +26,4 @@ Contact: brandonluu.dev@gmail.com
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=b1luu&hide_border=true)
