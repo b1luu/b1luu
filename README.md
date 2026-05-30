@@ -1,7 +1,7 @@
 Building backend systems for inventory automation and data processing for Mosa Tea.
 
 Contact: brandonluu.dev@gmail.com
-
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1luu&show_icons=true&theme=default)
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
