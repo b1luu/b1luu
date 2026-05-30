@@ -1,7 +1,7 @@
-building internal tools for Mosa Tea using Square APIs
+Building internal tools for Mosa Tea using Square APIs
 
 Contact: brandonluu.dev@gmail.com
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1luu&show_icons=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=b1luu&hide_border=true)
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
