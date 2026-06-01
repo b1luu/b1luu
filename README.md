@@ -32,5 +32,3 @@ Contact: brandonluu.dev@gmail.com
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=b1luu&hide_border=true)
