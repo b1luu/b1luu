@@ -1,4 +1,4 @@
-Building internal tools for Mosa Tea using Square APIs
+Building internal tools for a local business using Square APIs
 
 Contact: brandonluu.dev@gmail.com
 
