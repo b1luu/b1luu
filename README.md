@@ -2,6 +2,7 @@ Building internal operational tools using Square APIs
 
 Contact: brandonluu.dev@gmail.com
 
+
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,3 +30,11 @@ Contact: brandonluu.dev@gmail.com
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+
+### Interests
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-FF6F00?style=for-the-badge)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-0F9D58?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4053D6?style=for-the-badge)
+![Badminton](https://img.shields.io/badge/Badminton-1DA1F2?style=for-the-badge)
