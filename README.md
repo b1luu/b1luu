@@ -37,4 +37,3 @@ Contact: brandonluu.dev@gmail.com
 ![Optimization](https://img.shields.io/badge/Optimization-0F9D58?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4053D6?style=for-the-badge)
-![Badminton](https://img.shields.io/badge/Badminton-1DA1F2?style=for-the-badge)
