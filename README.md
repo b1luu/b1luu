@@ -1,4 +1,4 @@
-Building internal operational tools using Square APIs
+Building internal operational tools using Square APIs for small businesses
 
 Contact: brandonluu.dev@gmail.com
 
