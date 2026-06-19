@@ -22,6 +22,8 @@ Contact: brandonluu.dev@gmail.com
 ![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Square APIs](https://img.shields.io/badge/Square%20APIs-3E4348?style=for-the-badge&logo=square&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4CAF50?style=for-the-badge)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
