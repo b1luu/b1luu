@@ -21,7 +21,6 @@ Contact: brandonluu.dev@gmail.com
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Square APIs](https://img.shields.io/badge/Square%20APIs-3E4348?style=for-the-badge&logo=square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4CAF50?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
