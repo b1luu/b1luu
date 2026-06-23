@@ -2,8 +2,6 @@ Building internal operational tools using Square APIs for small businesses
 
 Contact: brandonluu.dev@gmail.com
 
-![Just Graduated](https://img.shields.io/badge/Just%20Graduated-Class%20of%202026-182B49?style=for-the-badge&labelColor=FFCD00)
-
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
