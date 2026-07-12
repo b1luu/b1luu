@@ -28,3 +28,5 @@ Contact: brandonluu.dev@gmail.com
 
 ### AI & ML
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
