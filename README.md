@@ -1,10 +1,6 @@
 Backend engineer, Math-CS @ UCSD (June 2026). I build event-driven
 systems on AWS for small-business operations.
 
-**Mosa Tea Inventory Automation** — API Gateway → SQS → Lambda pipeline,
-~10s end-to-end latency, idempotent dedup with zero duplicate writes.
-[repo] · [writeup]
-Contact: brandonluu.dev@gmail.com
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
