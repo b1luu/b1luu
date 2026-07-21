@@ -17,6 +17,7 @@ systems on AWS for small-business operations.
 ![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Square APIs](https://img.shields.io/badge/Square%20APIs-3E4348?style=for-the-badge&logo=square&logoColor=white)
