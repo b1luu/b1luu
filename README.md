@@ -1,5 +1,5 @@
 Backend engineer, Math-CS @ UCSD (June 2026). I build event-driven
-systems on AWS for small-business operations.
+systems on AWS for small-business operations and more.
 
 
 ### Core
