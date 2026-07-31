@@ -1,6 +1,6 @@
 Backend engineer, Math-CS @ UCSD (June 2026). I build event-driven
 systems on AWS for small-business operations and more.
-
+Working on AWS Certification Cloud Solutions Architect & Career Development
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
