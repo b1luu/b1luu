@@ -9,6 +9,11 @@ Working on AWS Certification Cloud Solutions Architect & Career Development
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### GPU & Systems
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![cuBLAS](https://img.shields.io/badge/cuBLAS-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Nsight](https://img.shields.io/badge/Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ### Backend & Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
