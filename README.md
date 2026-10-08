@@ -1,4 +1,4 @@
-Backend engineer, Math-CS @ UCSD (June 2026)
+Interested in Distributed Systems, AI Integration, Optimization
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
