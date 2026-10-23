@@ -1,36 +1,37 @@
-Interested in Distributed Systems, AI Integration, Optimization, Automation, Agents 
+### Hi, I'm Brandon 
+Backend engineer focused on **event-driven services, APIs, and cloud infrastructure**, plus applied AI.
+Math-CS @ UC San Diego '26 · **Open to new-grad SWE roles** · LA area, open to relocate
 
-### Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
 
-### GPU & Systems
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![cuBLAS](https://img.shields.io/badge/cuBLAS-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Nsight](https://img.shields.io/badge/Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### What I've built
 
-### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
-![Square APIs](https://img.shields.io/badge/Square%20APIs-3E4348?style=for-the-badge&logo=square&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-4CAF50?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Mosa Tea: Inventory Automation** · *SWE intern, in production*
+Event-driven AWS pipeline that syncs Square POS sales to inventory in real time.
+FastAPI · SQS · Lambda · PostgreSQL · Square webhooks · idempotent dedup
+→ 150+ daily transactions, 90%+ inventory accuracy
 
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langsmith&logoColor=white)
+**Self-Healing AWS Infrastructure**
+ECS Fargate service with CloudWatch alarms that trigger Lambda auto-remediation, all in Terraform.
+
+**Postmortem Generator** · *live MVP*
+6-node LangGraph agent workflow that drafts incident postmortems, traced with LangSmith and served via FastAPI.
+
+**Mosa RAG**
+Retrieval over store knowledge with ONNX embeddings. Hit@5 100% / MRR 1.00 on a 39-query eval set.
+
+**Repo Search Engine** · C++
+Graph-based code search over 1,000+ files in <200ms.
+
+**CUDA SGEMM** · *proof of depth*
+Hand-optimized matrix-multiply kernels on an RTX 4060, profiled with Nsight and benchmarked against cuBLAS.
+
+---
+
+### Stack
+**Languages:** Python · TypeScript · C++ · SQL
+**Backend & Cloud:** FastAPI · AWS (Lambda, SQS, ECS, API Gateway, DynamoDB, CloudWatch) · Terraform · PostgreSQL
+**AI:** LangGraph · LangChain · LangSmith · RAG
+**Systems:** CUDA
+
+📫 [LinkedIn](https://www.linkedin.com/in/brandonluu42/) · [Email](brandonluu.dev@gmail.com) · 
