@@ -7,7 +7,7 @@ Currently: SWE intern at **Mosa Tea**, running a production Square POS → AWS i
 
 ### Stack
 
-**Languages:** Python · TypeScript · C++ · SQL
+**Languages:** Python · Go · TypeScript · C++ · SQL
 
 **Backend & Cloud:** FastAPI · AWS (Lambda, SQS, ECS, API Gateway, DynamoDB, CloudWatch) · Terraform · PostgreSQL
 
