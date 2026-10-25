@@ -15,4 +15,4 @@ Currently: SWE intern at **Mosa Tea**, running a production Square POS → AWS i
 
 **Systems:** CUDA
 
-[LinkedIn](https://linkedin.com/in/brandonluu42) · [Email](mailto:brandonluu.dev@gmail.com) · [Resume](TODO)
+[LinkedIn](https://linkedin.com/in/brandonluu42) · [Email](mailto:brandonluu.dev@gmail.com) 
