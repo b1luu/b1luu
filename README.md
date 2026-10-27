@@ -1,7 +1,7 @@
 ### Hi, I'm Brandon
 
 Backend engineer focused on **event-driven services, APIs, and cloud infrastructure**, plus applied AI.<br>
-Math-CS @ UC San Diego '26 · **Open to new-grad SWE roles** · LA area, open to relocate
+Math-CS @ UC San Diego '26 · **Open to new-grad SWE roles** · open to relocate
 
 Currently: SWE intern at **Mosa Tea**, running a production Square POS → AWS inventory pipeline (150+ daily transactions).
 
